@@ -1,4 +1,4 @@
-# ISO-27001 GRC Simulation – HealthcareX 🏥  
+# ISO-27001 GRC Simulation – HealthcareX   
 *Created by:* Wafa Hajira  
 *Date:* July 2025  
 
