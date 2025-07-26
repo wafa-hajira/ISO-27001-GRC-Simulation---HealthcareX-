@@ -6,12 +6,12 @@
 
 ---
 
-##Objective  
+## Objective  
 To ensure that implemented security controls are operating effectively and meeting ISO/IEC 27001:2022 requirements.
 
 ---
 
-##Audit Checklist
+## Audit Checklist
 
 | Control ID | Control Name                     | What to Audit                                      | Frequency | Responsible Role      |
 |------------|----------------------------------|----------------------------------------------------|-----------|-----------------------|
@@ -25,7 +25,7 @@ To ensure that implemented security controls are operating effectively and meeti
 
 ---
 
-##Notes  
+## Notes  
 - Nonconformities must be documented and addressed through corrective action.  
 - All audit evidence must be retained for review by external auditors.
 
