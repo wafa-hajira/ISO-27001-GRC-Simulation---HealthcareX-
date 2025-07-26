@@ -31,5 +31,5 @@ To ensure that implemented security controls are operating effectively and meeti
 
 ---
 
-*Approved By*: Audit Manager – HealthcareX (Portfolio Project)  
+*Approved By*: Audit Manager – HealthcareX  
 *Next Review*: July 2026
