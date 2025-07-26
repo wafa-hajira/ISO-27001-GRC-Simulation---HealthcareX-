@@ -52,10 +52,6 @@ The fictional company is named *HealthcareX*, which handles patient data and cri
 - How to communicate security processes clearly through documentation  
 - How to visually map risk and link it to controls  
 
----
-
-## Connect with Me  
-[LinkedIn](#) • [GitHub](#) • [Portfolio](#)  
 
 ---
 
